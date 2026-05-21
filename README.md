@@ -1,4 +1,6 @@
 # Record-Histogram-processing
+## Name: HARINI S
+## Register No:212224240049
 
 ## Aim
 To write a Python program using OpenCV to perform histogram equalization on both grayscale and color images to enhance image contrast and brightness.
@@ -58,11 +60,6 @@ Step 11:
 Display original color image, histogram, enhanced image, and enhanced histogram using a 2 × 2 grid.
 
 # Program
-Developed By:
-Name: HARINI S
-
-Register No:
-212224240049
 
 # Grayscale Histogram Equalization 
 
